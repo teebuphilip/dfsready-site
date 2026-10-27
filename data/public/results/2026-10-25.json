@@ -1,0 +1,29 @@
+{
+  "contract": "dfsrase-public-results-v1",
+  "slate_date": "2026-10-25",
+  "graded_window": "final",
+  "graded_at": "2026-10-26T08:05:02.836753+00:00",
+  "coverage": {
+    "board_rows": 114,
+    "completed_teams": 14
+  },
+  "summary": {
+    "mae": 11.868,
+    "mean_error_actual_minus_projection": -4.491,
+    "best_actual_player": "Cade Cunningham",
+    "best_actual_fantasy_points": 59.6
+  },
+  "featured_result": {
+    "player": "Cade Cunningham",
+    "team": "DET",
+    "projection": 34.062,
+    "actual_fantasy_points": 59.6,
+    "error": 25.538,
+    "played": true,
+    "decision": "CONSIDER"
+  },
+  "limitations": [
+    "Results are graded against the research scoring profile; this is not contest ROI.",
+    "Players absent from a completed team game are treated as zero fantasy points."
+  ]
+}

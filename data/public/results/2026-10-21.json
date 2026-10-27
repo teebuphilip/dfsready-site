@@ -1,0 +1,29 @@
+{
+  "contract": "dfsrase-public-results-v1",
+  "slate_date": "2026-10-21",
+  "graded_window": "final",
+  "graded_at": "2026-10-22T08:05:02.470627+00:00",
+  "coverage": {
+    "board_rows": 321,
+    "completed_teams": 22
+  },
+  "summary": {
+    "mae": 12.407,
+    "mean_error_actual_minus_projection": -5.92,
+    "best_actual_player": "Anthony Edwards",
+    "best_actual_fantasy_points": 70.5
+  },
+  "featured_result": {
+    "player": "Anthony Edwards",
+    "team": "MIN",
+    "projection": 32.554,
+    "actual_fantasy_points": 70.5,
+    "error": 37.946,
+    "played": true,
+    "decision": "CONSIDER"
+  },
+  "limitations": [
+    "Results are graded against the research scoring profile; this is not contest ROI.",
+    "Players absent from a completed team game are treated as zero fantasy points."
+  ]
+}

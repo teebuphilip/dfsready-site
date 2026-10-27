@@ -1,0 +1,29 @@
+{
+  "contract": "dfsrase-public-results-v1",
+  "slate_date": "2026-10-24",
+  "graded_window": "final",
+  "graded_at": "2026-10-25T08:05:02.556021+00:00",
+  "coverage": {
+    "board_rows": 142,
+    "completed_teams": 16
+  },
+  "summary": {
+    "mae": 12.425,
+    "mean_error_actual_minus_projection": -5.605,
+    "best_actual_player": "Jalen Johnson",
+    "best_actual_fantasy_points": 66.8
+  },
+  "featured_result": {
+    "player": "Jalen Johnson",
+    "team": "ATL",
+    "projection": 37.082,
+    "actual_fantasy_points": 66.8,
+    "error": 29.718,
+    "played": true,
+    "decision": "CONSIDER"
+  },
+  "limitations": [
+    "Results are graded against the research scoring profile; this is not contest ROI.",
+    "Players absent from a completed team game are treated as zero fantasy points."
+  ]
+}

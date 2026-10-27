@@ -1,0 +1,53 @@
+{
+  "contract": "dfsrase-public-slate-v1",
+  "generated_at": "2026-10-26T22:30:16.124570+00:00",
+  "run_date": "2026-10-26",
+  "window": "final",
+  "version": 1,
+  "as_of_timestamp": "2026-10-26T22:30:16.119604+00:00",
+  "previous_night": null,
+  "status": "ready",
+  "provider": "DraftKings",
+  "slate_name": null,
+  "free_preview": [
+    {
+      "player": "Cody Williams",
+      "team": "MIN",
+      "salary": 3000,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Jamir Watkins",
+      "team": "WAS",
+      "salary": 3000,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Oscar Tshiebwe",
+      "team": "HOU",
+      "salary": 3000,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Ousmane Dieng",
+      "team": "MIL",
+      "salary": 3300,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Jericho Sims",
+      "team": "MIL",
+      "salary": 3000,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    }
+  ],
+  "limitations": [
+    "DFSRase is decision support and lineup construction, not a profit guarantee.",
+    "Ownership, contest field size, payouts, and winning lineups are not included."
+  ]
+}
