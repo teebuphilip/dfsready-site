@@ -1,15 +1,22 @@
 {
   "contract": "dfsrase-public-slate-v1",
-  "generated_at": "2026-10-26T22:30:16.124570+00:00",
-  "run_date": "2026-10-26",
-  "window": "final",
+  "generated_at": "2026-10-28T11:01:48.623597+00:00",
+  "run_date": "2026-10-28",
+  "window": "early",
   "version": 1,
-  "as_of_timestamp": "2026-10-26T22:30:16.119604+00:00",
+  "as_of_timestamp": "2026-10-28T11:01:48.617576+00:00",
   "previous_night": null,
   "status": "ready",
   "provider": "DraftKings",
   "slate_name": null,
   "free_preview": [
+    {
+      "player": "Julian Reese",
+      "team": "NOP",
+      "salary": 3000,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
     {
       "player": "Cody Williams",
       "team": "MIN",
@@ -18,29 +25,22 @@
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Jamir Watkins",
-      "team": "WAS",
-      "salary": 3000,
-      "decision": "PLAY",
-      "reason": "Strong projected fantasy points per $1,000."
-    },
-    {
-      "player": "Oscar Tshiebwe",
-      "team": "HOU",
-      "salary": 3000,
-      "decision": "PLAY",
-      "reason": "Strong projected fantasy points per $1,000."
-    },
-    {
       "player": "Ousmane Dieng",
       "team": "MIL",
-      "salary": 3300,
+      "salary": 3100,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Jericho Sims",
-      "team": "MIL",
+      "player": "Moses Moody",
+      "team": "GSW",
+      "salary": 3000,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Jamir Watkins",
+      "team": "WAS",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
