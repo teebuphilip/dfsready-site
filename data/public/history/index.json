@@ -1,0 +1,58 @@
+{
+  "contract": "dfsrase-public-history-index-v1",
+  "guest_limit": 10,
+  "dates": [
+    {
+      "slate_date": "2026-10-25",
+      "status": "graded",
+      "version": 1,
+      "summary": {
+        "mae": 11.868,
+        "mean_error_actual_minus_projection": -4.491,
+        "best_actual_player": "Cade Cunningham",
+        "best_actual_fantasy_points": 59.6
+      },
+      "player_count": 114
+    },
+    {
+      "slate_date": "2026-10-24",
+      "status": "graded",
+      "version": 1,
+      "summary": {
+        "mae": 12.425,
+        "mean_error_actual_minus_projection": -5.605,
+        "best_actual_player": "Jalen Johnson",
+        "best_actual_fantasy_points": 66.8
+      },
+      "player_count": 142
+    },
+    {
+      "slate_date": "2026-10-22",
+      "status": "graded",
+      "version": 1,
+      "summary": {
+        "mae": 10.744,
+        "mean_error_actual_minus_projection": -6.429,
+        "best_actual_player": "Donovan Mitchell",
+        "best_actual_fantasy_points": 57.5
+      },
+      "player_count": 55
+    },
+    {
+      "slate_date": "2026-10-21",
+      "status": "graded",
+      "version": 1,
+      "summary": {
+        "mae": 12.407,
+        "mean_error_actual_minus_projection": -5.92,
+        "best_actual_player": "Anthony Edwards",
+        "best_actual_fantasy_points": 70.5
+      },
+      "player_count": 321
+    }
+  ],
+  "limitations": [
+    "Guest access includes the most recent settled final-board dates only.",
+    "Full intraday version history and full-season access are subscriber features."
+  ]
+}

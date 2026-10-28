@@ -1,0 +1,30 @@
+{
+  "contract": "dfsrase-public-grading-v1",
+  "generated_at": "2026-10-28T09:41:29.377276+00:00",
+  "graded_slate_dates": [
+    "2026-10-25",
+    "2026-10-24",
+    "2026-10-22",
+    "2026-10-21"
+  ],
+  "summary": {
+    "graded_slates": 4,
+    "graded_player_rows": 632,
+    "mae": 12.169,
+    "mean_error_actual_minus_projection": -5.636
+  },
+  "by_decision": {
+    "CONSIDER": {
+      "player_rows": 388,
+      "mae": 10.903
+    },
+    "PLAY": {
+      "player_rows": 244,
+      "mae": 14.184
+    }
+  },
+  "limitations": [
+    "Grades use the DFSReady research fantasy scoring profile, not contest ROI, ownership, entry fees, or payout results.",
+    "Only immutable final boards with settled results are included."
+  ]
+}
