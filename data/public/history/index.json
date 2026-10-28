@@ -3,6 +3,18 @@
   "guest_limit": 10,
   "dates": [
     {
+      "slate_date": "2026-10-26",
+      "status": "graded",
+      "version": 1,
+      "summary": {
+        "mae": 13.169,
+        "mean_error_actual_minus_projection": -5.308,
+        "best_actual_player": "Cooper Flagg",
+        "best_actual_fantasy_points": 76.7
+      },
+      "player_count": 200
+    },
+    {
       "slate_date": "2026-10-25",
       "status": "graded",
       "version": 1,
