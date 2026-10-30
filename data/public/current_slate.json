@@ -1,22 +1,15 @@
 {
   "contract": "dfsrase-public-slate-v1",
-  "generated_at": "2026-10-28T11:01:48.623597+00:00",
-  "run_date": "2026-10-28",
+  "generated_at": "2026-10-30T08:05:06.156771+00:00",
+  "run_date": "2026-10-30",
   "window": "early",
   "version": 1,
-  "as_of_timestamp": "2026-10-28T11:01:48.617576+00:00",
+  "as_of_timestamp": "2026-10-30T08:05:06.151494+00:00",
   "previous_night": null,
   "status": "ready",
   "provider": "DraftKings",
   "slate_name": null,
   "free_preview": [
-    {
-      "player": "Julian Reese",
-      "team": "NOP",
-      "salary": 3000,
-      "decision": "PLAY",
-      "reason": "Strong projected fantasy points per $1,000."
-    },
     {
       "player": "Cody Williams",
       "team": "MIN",
@@ -25,23 +18,30 @@
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Ousmane Dieng",
-      "team": "MIL",
-      "salary": 3100,
-      "decision": "PLAY",
-      "reason": "Strong projected fantasy points per $1,000."
-    },
-    {
-      "player": "Moses Moody",
-      "team": "GSW",
-      "salary": 3000,
-      "decision": "PLAY",
-      "reason": "Strong projected fantasy points per $1,000."
-    },
-    {
       "player": "Jamir Watkins",
       "team": "WAS",
       "salary": 3000,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Ben Saraf",
+      "team": "BKN",
+      "salary": 3000,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Rayan Rupert",
+      "team": "PHI",
+      "salary": 3500,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Moussa Cisse",
+      "team": "DAL",
+      "salary": 3100,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     }
