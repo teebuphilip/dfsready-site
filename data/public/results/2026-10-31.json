@@ -1,0 +1,29 @@
+{
+  "contract": "dfsrase-public-results-v1",
+  "slate_date": "2026-10-31",
+  "graded_window": "final",
+  "graded_at": "2026-11-01T09:05:01.138358+00:00",
+  "coverage": {
+    "board_rows": 142,
+    "completed_teams": 14
+  },
+  "summary": {
+    "mae": 12.627,
+    "mean_error_actual_minus_projection": -7.422,
+    "best_actual_player": "Victor Wembanyama",
+    "best_actual_fantasy_points": 78.4
+  },
+  "featured_result": {
+    "player": "Victor Wembanyama",
+    "team": "SAS",
+    "projection": 45.967,
+    "actual_fantasy_points": 78.4,
+    "error": 32.433,
+    "played": true,
+    "decision": "CONSIDER"
+  },
+  "limitations": [
+    "Results are graded against the research scoring profile; this is not contest ROI.",
+    "Players absent from a completed team game are treated as zero fantasy points."
+  ]
+}

@@ -1,0 +1,3592 @@
+{
+  "contract": "dfsrase-public-final-board-history-v1",
+  "slate_date": "2026-10-30",
+  "window": "final",
+  "version": 1,
+  "as_of_timestamp": "2026-10-30T22:30:24.999483+00:00",
+  "status": "graded",
+  "summary": {
+    "mae": 11.984,
+    "mean_error_actual_minus_projection": -5.164,
+    "best_actual_player": "Giannis Antetokounmpo",
+    "best_actual_fantasy_points": 70.6
+  },
+  "coverage": {
+    "board_rows": 231,
+    "completed_teams": 20
+  },
+  "players": [
+    {
+      "player": "Cody Williams",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 3000,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 25.823,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -25.823,
+      "played": true
+    },
+    {
+      "player": "Jamir Watkins",
+      "team": "WAS",
+      "opponent": "CHA",
+      "salary": 3000,
+      "roster_slots": [
+        "SG"
+      ],
+      "projection": 23.587,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -23.587,
+      "played": false
+    },
+    {
+      "player": "Ben Saraf",
+      "team": "BKN",
+      "opponent": "DET",
+      "salary": 3000,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 23.425,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -23.425,
+      "played": false
+    },
+    {
+      "player": "Rayan Rupert",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 3500,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 26.849,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -26.849,
+      "played": true
+    },
+    {
+      "player": "Moussa Cisse",
+      "team": "DAL",
+      "opponent": "HOU",
+      "salary": 3100,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 22.715,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -22.715,
+      "played": true
+    },
+    {
+      "player": "Will Riley",
+      "team": "WAS",
+      "opponent": "CHA",
+      "salary": 3500,
+      "roster_slots": [
+        "SG"
+      ],
+      "projection": 25.578,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -25.578,
+      "played": true
+    },
+    {
+      "player": "Malachi Smith",
+      "team": "TOR",
+      "opponent": "ORL",
+      "salary": 3000,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 21.431,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -21.431,
+      "played": false
+    },
+    {
+      "player": "Donte DiVincenzo",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 3000,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 21.153,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -21.153,
+      "played": false
+    },
+    {
+      "player": "Jordan Miller",
+      "team": "LAC",
+      "opponent": "MIN",
+      "salary": 3000,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 20.662,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -20.662,
+      "played": false
+    },
+    {
+      "player": "Tre Jones",
+      "team": "CHI",
+      "opponent": "BOS",
+      "salary": 4000,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 27.1,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 37.8,
+      "error": 10.7,
+      "played": true
+    },
+    {
+      "player": "Kyle Anderson",
+      "team": "TOR",
+      "opponent": "ORL",
+      "salary": 3200,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 21.186,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -21.186,
+      "played": true
+    },
+    {
+      "player": "Anthony Gill",
+      "team": "WAS",
+      "opponent": "CHA",
+      "salary": 3000,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 19.804,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -19.804,
+      "played": true
+    },
+    {
+      "player": "Devin Carter",
+      "team": "BOS",
+      "opponent": "CHI",
+      "salary": 4000,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 26.269,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -26.269,
+      "played": false
+    },
+    {
+      "player": "Kobe Brown",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 3000,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 19.633,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 22.2,
+      "error": 2.567,
+      "played": true
+    },
+    {
+      "player": "Jalen Slawson",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 3200,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 20.917,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 13.3,
+      "error": -7.617,
+      "played": true
+    },
+    {
+      "player": "Danny Wolf",
+      "team": "BKN",
+      "opponent": "DET",
+      "salary": 3200,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 20.682,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 19.2,
+      "error": -1.482,
+      "played": true
+    },
+    {
+      "player": "Nick Richards",
+      "team": "MIA",
+      "opponent": "IND",
+      "salary": 3000,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 19.202,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -19.202,
+      "played": true
+    },
+    {
+      "player": "Patrick Williams",
+      "team": "CHI",
+      "opponent": "BOS",
+      "salary": 3200,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 20.388,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -20.388,
+      "played": true
+    },
+    {
+      "player": "Dominick Barlow",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 3000,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 19.082,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -19.082,
+      "played": false
+    },
+    {
+      "player": "Luka Garza",
+      "team": "BOS",
+      "opponent": "CHI",
+      "salary": 3100,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 19.695,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 7.7,
+      "error": -11.995,
+      "played": true
+    },
+    {
+      "player": "Bones Hyland",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 3500,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 22.19,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 34.0,
+      "error": 11.81,
+      "played": true
+    },
+    {
+      "player": "Deandre Ayton",
+      "team": "WAS",
+      "opponent": "CHA",
+      "salary": 3800,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 24.01,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 8.1,
+      "error": -15.91,
+      "played": true
+    },
+    {
+      "player": "Taurean Prince",
+      "team": "DET",
+      "opponent": "BKN",
+      "salary": 3400,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 21.045,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -21.045,
+      "played": true
+    },
+    {
+      "player": "Bilal Coulibaly",
+      "team": "WAS",
+      "opponent": "CHA",
+      "salary": 4300,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 26.607,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 11.5,
+      "error": -15.107,
+      "played": true
+    },
+    {
+      "player": "Zach Collins",
+      "team": "CHI",
+      "opponent": "BOS",
+      "salary": 3100,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 18.806,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -18.806,
+      "played": true
+    },
+    {
+      "player": "Neemias Queta",
+      "team": "BOS",
+      "opponent": "CHI",
+      "salary": 4300,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 25.981,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 26.2,
+      "error": 0.219,
+      "played": true
+    },
+    {
+      "player": "Oscar Tshiebwe",
+      "team": "HOU",
+      "opponent": "DAL",
+      "salary": 3800,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 22.782,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 9.0,
+      "error": -13.782,
+      "played": true
+    },
+    {
+      "player": "Bub Carrington",
+      "team": "WAS",
+      "opponent": "CHA",
+      "salary": 4100,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 24.5,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 16.8,
+      "error": -7.7,
+      "played": true
+    },
+    {
+      "player": "Jarace Walker",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 4300,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 25.688,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 30.2,
+      "error": 4.512,
+      "played": true
+    },
+    {
+      "player": "Johnny Furphy",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 3000,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 17.625,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -17.625,
+      "played": false
+    },
+    {
+      "player": "Josh Minott",
+      "team": "BKN",
+      "opponent": "DET",
+      "salary": 3800,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 22.189,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 2.0,
+      "error": -20.189,
+      "played": true
+    },
+    {
+      "player": "Nolan Traore",
+      "team": "BKN",
+      "opponent": "DET",
+      "salary": 4100,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 23.923,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 23.4,
+      "error": -0.523,
+      "played": true
+    },
+    {
+      "player": "Jay Huff",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 4200,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 24.372,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 14.2,
+      "error": -10.172,
+      "played": true
+    },
+    {
+      "player": "Mitchell Robinson",
+      "team": "BOS",
+      "opponent": "CHI",
+      "salary": 4100,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 23.596,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 18.8,
+      "error": -4.796,
+      "played": true
+    },
+    {
+      "player": "Tristan Vukcevic",
+      "team": "WAS",
+      "opponent": "CHA",
+      "salary": 3600,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 20.567,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -20.567,
+      "played": false
+    },
+    {
+      "player": "Simone Fontecchio",
+      "team": "MIA",
+      "opponent": "IND",
+      "salary": 3000,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 16.871,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 4.2,
+      "error": -12.671,
+      "played": true
+    },
+    {
+      "player": "Drake Powell",
+      "team": "BKN",
+      "opponent": "DET",
+      "salary": 3000,
+      "roster_slots": [
+        "SG"
+      ],
+      "projection": 16.862,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 3.0,
+      "error": -13.862,
+      "played": true
+    },
+    {
+      "player": "Matas Buzelis",
+      "team": "CHI",
+      "opponent": "BOS",
+      "salary": 5600,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 31.218,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 21.5,
+      "error": -9.718,
+      "played": true
+    },
+    {
+      "player": "Ben Sheppard",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 3000,
+      "roster_slots": [
+        "SG"
+      ],
+      "projection": 16.7,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -16.7,
+      "played": false
+    },
+    {
+      "player": "Andre Drummond",
+      "team": "NYK",
+      "opponent": "PHI",
+      "salary": 3800,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 21.115,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 11.7,
+      "error": -9.415,
+      "played": true
+    },
+    {
+      "player": "Kevin Huerter",
+      "team": "DET",
+      "opponent": "BKN",
+      "salary": 4000,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 22.211,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 16.7,
+      "error": -5.511,
+      "played": true
+    },
+    {
+      "player": "Isaac Okoro",
+      "team": "CHI",
+      "opponent": "BOS",
+      "salary": 3700,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 20.534,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 15.6,
+      "error": -4.934,
+      "played": true
+    },
+    {
+      "player": "Tim Hardaway Jr",
+      "team": "MIA",
+      "opponent": "IND",
+      "salary": 3400,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 18.798,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 4.7,
+      "error": -14.098,
+      "played": true
+    },
+    {
+      "player": "Jakob Poeltl",
+      "team": "TOR",
+      "opponent": "ORL",
+      "salary": 4300,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 23.771,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 32.7,
+      "error": 8.929,
+      "played": true
+    },
+    {
+      "player": "Leonard Miller",
+      "team": "CHI",
+      "opponent": "BOS",
+      "salary": 4200,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 22.862,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 5.9,
+      "error": -16.962,
+      "played": true
+    },
+    {
+      "player": "Quenton Jackson",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 4000,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 21.747,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 36.3,
+      "error": 14.553,
+      "played": true
+    },
+    {
+      "player": "Mike Conley",
+      "team": "BOS",
+      "opponent": "CHI",
+      "salary": 3000,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 16.162,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -16.162,
+      "played": true
+    },
+    {
+      "player": "Jose Alvarado",
+      "team": "NYK",
+      "opponent": "PHI",
+      "salary": 3800,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 20.344,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -20.344,
+      "played": false
+    },
+    {
+      "player": "Royce O'Neale",
+      "team": "CHA",
+      "opponent": "WAS",
+      "salary": 3800,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 20.292,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 12.1,
+      "error": -8.192,
+      "played": true
+    },
+    {
+      "player": "Marcus Smart",
+      "team": "HOU",
+      "opponent": "DAL",
+      "salary": 4200,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 22.192,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 25.4,
+      "error": 3.208,
+      "played": true
+    },
+    {
+      "player": "Terance Mann",
+      "team": "BKN",
+      "opponent": "DET",
+      "salary": 3000,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 15.76,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 11.0,
+      "error": -4.76,
+      "played": true
+    },
+    {
+      "player": "Santi Aldama",
+      "team": "DAL",
+      "opponent": "HOU",
+      "salary": 4700,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 24.624,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -24.624,
+      "played": false
+    },
+    {
+      "player": "Brook Lopez",
+      "team": "LAC",
+      "opponent": "MIN",
+      "salary": 4600,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 24.053,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 23.2,
+      "error": -0.853,
+      "played": true
+    },
+    {
+      "player": "Nikola Vucevic",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 4200,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 21.891,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 4.2,
+      "error": -17.691,
+      "played": true
+    },
+    {
+      "player": "Klay Thompson",
+      "team": "MIA",
+      "opponent": "IND",
+      "salary": 3500,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 18.233,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 29.5,
+      "error": 11.267,
+      "played": true
+    },
+    {
+      "player": "Brandon Ingram",
+      "team": "LAC",
+      "opponent": "MIN",
+      "salary": 5700,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 29.66,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -29.66,
+      "played": false
+    },
+    {
+      "player": "Bobby Portis",
+      "team": "MIA",
+      "opponent": "IND",
+      "salary": 4600,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 23.897,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 16.1,
+      "error": -7.797,
+      "played": true
+    },
+    {
+      "player": "Justin Edwards",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 3000,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 15.57,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -15.57,
+      "played": true
+    },
+    {
+      "player": "Miles McBride",
+      "team": "NYK",
+      "opponent": "PHI",
+      "salary": 3900,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 20.238,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 15.1,
+      "error": -5.138,
+      "played": true
+    },
+    {
+      "player": "Justin Champagnie",
+      "team": "WAS",
+      "opponent": "CHA",
+      "salary": 4500,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 23.343,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -23.343,
+      "played": false
+    },
+    {
+      "player": "Reed Sheppard",
+      "team": "HOU",
+      "opponent": "DAL",
+      "salary": 5000,
+      "roster_slots": [
+        "SG"
+      ],
+      "projection": 25.848,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -25.848,
+      "played": true
+    },
+    {
+      "player": "Chaney Johnson",
+      "team": "BKN",
+      "opponent": "DET",
+      "salary": 4000,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 20.678,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 14.4,
+      "error": -6.278,
+      "played": true
+    },
+    {
+      "player": "Ausar Thompson",
+      "team": "DET",
+      "opponent": "BKN",
+      "salary": 5700,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 29.149,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 35.6,
+      "error": 6.451,
+      "played": true
+    },
+    {
+      "player": "Daniss Jenkins",
+      "team": "DET",
+      "opponent": "BKN",
+      "salary": 4800,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 24.504,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 17.1,
+      "error": -7.404,
+      "played": true
+    },
+    {
+      "player": "Yanic Konan Niederhauser",
+      "team": "LAC",
+      "opponent": "MIN",
+      "salary": 3300,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 16.802,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -16.802,
+      "played": false
+    },
+    {
+      "player": "Anfernee Simons",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 4000,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 20.365,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 24.9,
+      "error": 4.535,
+      "played": true
+    },
+    {
+      "player": "Pelle Larsson",
+      "team": "MIA",
+      "opponent": "IND",
+      "salary": 4500,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 22.716,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 26.1,
+      "error": 3.384,
+      "played": true
+    },
+    {
+      "player": "Goga Bitadze",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 3800,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 19.149,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 9.8,
+      "error": -9.349,
+      "played": true
+    },
+    {
+      "player": "Max Strus",
+      "team": "LAC",
+      "opponent": "MIN",
+      "salary": 3700,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 18.617,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -18.617,
+      "played": false
+    },
+    {
+      "player": "Grant Williams",
+      "team": "CHA",
+      "opponent": "WAS",
+      "salary": 3400,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 17.1,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 0.0,
+      "error": -17.1,
+      "played": false
+    },
+    {
+      "player": "V.J. Edgecombe",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 5900,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 29.662,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 25.6,
+      "error": -4.062,
+      "played": true
+    },
+    {
+      "player": "Andrew Wiggins",
+      "team": "MIA",
+      "opponent": "IND",
+      "salary": 4800,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 24.081,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000.",
+      "actual_fantasy_points": 24.9,
+      "error": 0.819,
+      "played": true
+    },
+    {
+      "player": "LeBron James",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 7200,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 35.916,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 48.8,
+      "error": 12.884,
+      "played": true
+    },
+    {
+      "player": "Rudy Gobert",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 5500,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 27.303,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 36.6,
+      "error": 9.297,
+      "played": true
+    },
+    {
+      "player": "Grant Nelson",
+      "team": "BKN",
+      "opponent": "DET",
+      "salary": 3000,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 14.833,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -14.833,
+      "played": false
+    },
+    {
+      "player": "Ron Harper Jr",
+      "team": "BOS",
+      "opponent": "CHI",
+      "salary": 3000,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 14.798,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -14.798,
+      "played": true
+    },
+    {
+      "player": "Noah Clowney",
+      "team": "BKN",
+      "opponent": "DET",
+      "salary": 3900,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 19.234,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 23.1,
+      "error": 3.866,
+      "played": true
+    },
+    {
+      "player": "Keshad Johnson",
+      "team": "MIA",
+      "opponent": "IND",
+      "salary": 3000,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 14.703,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -14.703,
+      "played": false
+    },
+    {
+      "player": "Kelly Oubre Jr",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 5000,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 24.482,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 16.3,
+      "error": -8.182,
+      "played": true
+    },
+    {
+      "player": "Bam Adebayo",
+      "team": "MIA",
+      "opponent": "IND",
+      "salary": 7500,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 36.522,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 51.3,
+      "error": 14.778,
+      "played": true
+    },
+    {
+      "player": "Amen Thompson",
+      "team": "HOU",
+      "opponent": "DAL",
+      "salary": 7300,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 35.282,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 39.6,
+      "error": 4.318,
+      "played": true
+    },
+    {
+      "player": "Ryan Kalkbrenner",
+      "team": "CHA",
+      "opponent": "WAS",
+      "salary": 3500,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 16.877,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 9.8,
+      "error": -7.077,
+      "played": true
+    },
+    {
+      "player": "P.J. Hall",
+      "team": "CHA",
+      "opponent": "WAS",
+      "salary": 3000,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 14.43,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 1.2,
+      "error": -13.23,
+      "played": true
+    },
+    {
+      "player": "Baylor Scheierman",
+      "team": "BOS",
+      "opponent": "CHI",
+      "salary": 3900,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 18.733,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 13.1,
+      "error": -5.633,
+      "played": true
+    },
+    {
+      "player": "Adem Bona",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 3100,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 14.883,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 5.4,
+      "error": -9.483,
+      "played": true
+    },
+    {
+      "player": "Naji Marshall",
+      "team": "DAL",
+      "opponent": "HOU",
+      "salary": 5400,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 25.816,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -25.816,
+      "played": true
+    },
+    {
+      "player": "Jalen Pickett",
+      "team": "LAC",
+      "opponent": "MIN",
+      "salary": 3000,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 14.314,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -14.314,
+      "played": true
+    },
+    {
+      "player": "Jalen Suggs",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 6100,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 28.955,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -28.955,
+      "played": false
+    },
+    {
+      "player": "Collin Murray-Boyles",
+      "team": "TOR",
+      "opponent": "ORL",
+      "salary": 5000,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 23.717,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 22.5,
+      "error": -1.217,
+      "played": true
+    },
+    {
+      "player": "Jaylen Clark",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 3000,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 14.148,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 17.0,
+      "error": 2.852,
+      "played": true
+    },
+    {
+      "player": "Ayo Dosunmu",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 5600,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 26.011,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 29.4,
+      "error": 3.389,
+      "played": true
+    },
+    {
+      "player": "Jevon Carter",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 3400,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 15.764,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -15.764,
+      "played": true
+    },
+    {
+      "player": "Caleb Love",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 3000,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 13.888,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -13.888,
+      "played": true
+    },
+    {
+      "player": "Steven Adams",
+      "team": "HOU",
+      "opponent": "DAL",
+      "salary": 4400,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 20.353,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -20.353,
+      "played": false
+    },
+    {
+      "player": "Jamal Cain",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 3300,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 15.256,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 13.0,
+      "error": -2.256,
+      "played": true
+    },
+    {
+      "player": "Isaiah Joe",
+      "team": "DET",
+      "opponent": "BKN",
+      "salary": 3800,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 17.407,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -17.407,
+      "played": false
+    },
+    {
+      "player": "Joan Beringer",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 4000,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 18.173,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 11.8,
+      "error": -6.373,
+      "played": true
+    },
+    {
+      "player": "Keon Ellis",
+      "team": "BKN",
+      "opponent": "DET",
+      "salary": 4200,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 19.075,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 15.9,
+      "error": -3.175,
+      "played": true
+    },
+    {
+      "player": "Zyon Pullin",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 3000,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 13.579,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 2.0,
+      "error": -11.579,
+      "played": true
+    },
+    {
+      "player": "Sion James",
+      "team": "CHA",
+      "opponent": "WAS",
+      "salary": 3700,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 16.725,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 24.0,
+      "error": 7.275,
+      "played": true
+    },
+    {
+      "player": "Dru Smith",
+      "team": "MIA",
+      "opponent": "IND",
+      "salary": 3200,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 14.405,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 1.5,
+      "error": -12.905,
+      "played": true
+    },
+    {
+      "player": "Daniel Gafford",
+      "team": "DAL",
+      "opponent": "HOU",
+      "salary": 5600,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 25.071,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 35.4,
+      "error": 10.329,
+      "played": true
+    },
+    {
+      "player": "Jordan Clarkson",
+      "team": "NYK",
+      "opponent": "PHI",
+      "salary": 3200,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 14.278,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 10.6,
+      "error": -3.678,
+      "played": true
+    },
+    {
+      "player": "Paul George",
+      "team": "BOS",
+      "opponent": "CHI",
+      "salary": 6800,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 30.198,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 46.2,
+      "error": 16.002,
+      "played": true
+    },
+    {
+      "player": "Kevin Durant",
+      "team": "HOU",
+      "opponent": "DAL",
+      "salary": 7700,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 34.116,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 35.5,
+      "error": 1.384,
+      "played": true
+    },
+    {
+      "player": "Day'Ron Sharpe",
+      "team": "BKN",
+      "opponent": "DET",
+      "salary": 5300,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 23.45,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 21.9,
+      "error": -1.55,
+      "played": true
+    },
+    {
+      "player": "Josh Giddey",
+      "team": "CHI",
+      "opponent": "BOS",
+      "salary": 7600,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 33.599,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 25.3,
+      "error": -8.299,
+      "played": true
+    },
+    {
+      "player": "T.J. McConnell",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 4800,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 21.175,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -21.175,
+      "played": false
+    },
+    {
+      "player": "Alperen Sengun",
+      "team": "HOU",
+      "opponent": "DAL",
+      "salary": 8200,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 36.045,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -36.045,
+      "played": true
+    },
+    {
+      "player": "Mikal Bridges",
+      "team": "NYK",
+      "opponent": "PHI",
+      "salary": 4700,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 20.466,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 30.0,
+      "error": 9.534,
+      "played": true
+    },
+    {
+      "player": "Mohamed Diawara",
+      "team": "NYK",
+      "opponent": "PHI",
+      "salary": 3000,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 12.985,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -12.985,
+      "played": true
+    },
+    {
+      "player": "Payton Pritchard",
+      "team": "BOS",
+      "opponent": "CHI",
+      "salary": 6000,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 25.954,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 44.1,
+      "error": 18.146,
+      "played": true
+    },
+    {
+      "player": "Jamal Shead",
+      "team": "TOR",
+      "opponent": "ORL",
+      "salary": 4500,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 19.462,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 21.2,
+      "error": 1.738,
+      "played": true
+    },
+    {
+      "player": "Jaden McDaniels",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 6200,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 26.803,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 46.7,
+      "error": 19.897,
+      "played": true
+    },
+    {
+      "player": "Obi Toppin",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 4900,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 21.163,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -21.163,
+      "played": true
+    },
+    {
+      "player": "Aaron Nesmith",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 4700,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 20.285,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 15.6,
+      "error": -4.685,
+      "played": true
+    },
+    {
+      "player": "Jordan Walsh",
+      "team": "BOS",
+      "opponent": "CHI",
+      "salary": 3600,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 15.48,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 4.4,
+      "error": -11.08,
+      "played": true
+    },
+    {
+      "player": "Jaylen Brown",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 7900,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 33.929,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -33.929,
+      "played": false
+    },
+    {
+      "player": "Jalen Smith",
+      "team": "CHI",
+      "opponent": "BOS",
+      "salary": 5000,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 21.472,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 26.9,
+      "error": 5.428,
+      "played": true
+    },
+    {
+      "player": "Michael Porter Jr",
+      "team": "BKN",
+      "opponent": "DET",
+      "salary": 7300,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 31.242,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 25.9,
+      "error": -5.342,
+      "played": true
+    },
+    {
+      "player": "Tre Johnson",
+      "team": "WAS",
+      "opponent": "CHA",
+      "salary": 4400,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 18.788,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 6.4,
+      "error": -12.388,
+      "played": true
+    },
+    {
+      "player": "Ja'Kobe Walter",
+      "team": "TOR",
+      "opponent": "ORL",
+      "salary": 4800,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 20.492,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 17.1,
+      "error": -3.392,
+      "played": true
+    },
+    {
+      "player": "Caleb Martin",
+      "team": "DAL",
+      "opponent": "HOU",
+      "salary": 3400,
+      "roster_slots": [
+        "SG"
+      ],
+      "projection": 14.474,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 8.0,
+      "error": -6.474,
+      "played": true
+    },
+    {
+      "player": "Dean Wade",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 3600,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 15.286,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 12.9,
+      "error": -2.386,
+      "played": true
+    },
+    {
+      "player": "Jonathan Kuminga",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 5200,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 22.062,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 9.2,
+      "error": -12.862,
+      "played": true
+    },
+    {
+      "player": "Tari Eason",
+      "team": "HOU",
+      "opponent": "DAL",
+      "salary": 5100,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 21.605,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 32.6,
+      "error": 10.995,
+      "played": true
+    },
+    {
+      "player": "Moussa Diabate",
+      "team": "CHA",
+      "opponent": "WAS",
+      "salary": 5300,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 22.395,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 31.9,
+      "error": 9.505,
+      "played": true
+    },
+    {
+      "player": "Javonte Green",
+      "team": "DET",
+      "opponent": "BKN",
+      "salary": 3800,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 16.044,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 20.1,
+      "error": 4.056,
+      "played": true
+    },
+    {
+      "player": "Grayson Allen",
+      "team": "CHA",
+      "opponent": "WAS",
+      "salary": 5100,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 21.511,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 11.6,
+      "error": -9.911,
+      "played": true
+    },
+    {
+      "player": "Josh Hart",
+      "team": "NYK",
+      "opponent": "PHI",
+      "salary": 6000,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 25.274,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 21.7,
+      "error": -3.574,
+      "played": true
+    },
+    {
+      "player": "Julius Randle",
+      "team": "BKN",
+      "opponent": "DET",
+      "salary": 7500,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 31.572,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 29.1,
+      "error": -2.472,
+      "played": true
+    },
+    {
+      "player": "Kawhi Leonard",
+      "team": "TOR",
+      "opponent": "ORL",
+      "salary": 8000,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 33.661,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -33.661,
+      "played": false
+    },
+    {
+      "player": "Khris Middleton",
+      "team": "WAS",
+      "opponent": "CHA",
+      "salary": 3700,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 15.517,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -15.517,
+      "played": true
+    },
+    {
+      "player": "Max Christie",
+      "team": "DAL",
+      "opponent": "HOU",
+      "salary": 4900,
+      "roster_slots": [
+        "SG"
+      ],
+      "projection": 20.481,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 9.2,
+      "error": -11.281,
+      "played": true
+    },
+    {
+      "player": "Davion Mitchell",
+      "team": "MIA",
+      "opponent": "IND",
+      "salary": 5500,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 22.988,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 41.7,
+      "error": 18.712,
+      "played": true
+    },
+    {
+      "player": "Buddy Hield",
+      "team": "CHI",
+      "opponent": "BOS",
+      "salary": 3600,
+      "roster_slots": [
+        "SG"
+      ],
+      "projection": 14.99,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 13.1,
+      "error": -1.89,
+      "played": true
+    },
+    {
+      "player": "Clint Capela",
+      "team": "HOU",
+      "opponent": "DAL",
+      "salary": 4100,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 17.047,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 37.7,
+      "error": 20.653,
+      "played": true
+    },
+    {
+      "player": "Joel Embiid",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 8600,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 35.6,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 34.9,
+      "error": -0.7,
+      "played": true
+    },
+    {
+      "player": "OG Anunoby",
+      "team": "NYK",
+      "opponent": "PHI",
+      "salary": 6100,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 25.172,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 21.3,
+      "error": -3.872,
+      "played": true
+    },
+    {
+      "player": "Isaiah Jackson",
+      "team": "LAC",
+      "opponent": "MIN",
+      "salary": 4700,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 19.392,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 45.4,
+      "error": 26.008,
+      "played": true
+    },
+    {
+      "player": "Andrew Nembhard",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 6800,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 28.048,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 37.9,
+      "error": 9.852,
+      "played": true
+    },
+    {
+      "player": "Anthony Davis",
+      "team": "WAS",
+      "opponent": "CHA",
+      "salary": 8700,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 35.832,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 48.1,
+      "error": 12.268,
+      "played": true
+    },
+    {
+      "player": "Desmond Bane",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 6800,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 27.958,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 42.4,
+      "error": 14.442,
+      "played": true
+    },
+    {
+      "player": "Kyshawn George",
+      "team": "WAS",
+      "opponent": "CHA",
+      "salary": 5800,
+      "roster_slots": [
+        "SG"
+      ],
+      "projection": 23.795,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 26.1,
+      "error": 2.305,
+      "played": true
+    },
+    {
+      "player": "Tyrese Maxey",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 8400,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 34.428,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 43.8,
+      "error": 9.372,
+      "played": true
+    },
+    {
+      "player": "LaMelo Ball",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 8200,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 33.576,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 45.3,
+      "error": 11.724,
+      "played": true
+    },
+    {
+      "player": "Duncan Robinson",
+      "team": "DET",
+      "opponent": "BKN",
+      "salary": 4900,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 19.959,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 33.8,
+      "error": 13.841,
+      "played": true
+    },
+    {
+      "player": "Anthony Black",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 5900,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 23.94,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 42.2,
+      "error": 18.26,
+      "played": true
+    },
+    {
+      "player": "Ariel Hukporti",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 3000,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 12.171,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -12.171,
+      "played": false
+    },
+    {
+      "player": "Kentavious Caldwell-Pope",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 4500,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 18.137,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 16.1,
+      "error": -2.037,
+      "played": true
+    },
+    {
+      "player": "Jalen Brunson",
+      "team": "NYK",
+      "opponent": "PHI",
+      "salary": 8100,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 32.588,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 45.0,
+      "error": 12.412,
+      "played": true
+    },
+    {
+      "player": "Bogdan Bogdanovic",
+      "team": "HOU",
+      "opponent": "DAL",
+      "salary": 3300,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 13.243,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 7.2,
+      "error": -6.043,
+      "played": true
+    },
+    {
+      "player": "Kris Dunn",
+      "team": "LAC",
+      "opponent": "MIN",
+      "salary": 5100,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 20.372,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 21.5,
+      "error": 1.128,
+      "played": true
+    },
+    {
+      "player": "Scottie Barnes",
+      "team": "TOR",
+      "opponent": "ORL",
+      "salary": 8400,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 33.448,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 60.5,
+      "error": 27.052,
+      "played": true
+    },
+    {
+      "player": "RJ Barrett",
+      "team": "TOR",
+      "opponent": "ORL",
+      "salary": 7000,
+      "roster_slots": [
+        "SG"
+      ],
+      "projection": 27.869,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 23.1,
+      "error": -4.769,
+      "played": true
+    },
+    {
+      "player": "Terrence Shannon Jr",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 4300,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 17.119,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 17.6,
+      "error": 0.481,
+      "played": true
+    },
+    {
+      "player": "Pascal Siakam",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 8000,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 31.621,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 31.0,
+      "error": -0.621,
+      "played": true
+    },
+    {
+      "player": "Bradley Beal",
+      "team": "LAC",
+      "opponent": "MIN",
+      "salary": 4000,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 15.773,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -15.773,
+      "played": false
+    },
+    {
+      "player": "James Wiseman",
+      "team": "NYK",
+      "opponent": "PHI",
+      "salary": 3100,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 12.131,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -12.131,
+      "played": true
+    },
+    {
+      "player": "Kobe Sanders",
+      "team": "LAC",
+      "opponent": "MIN",
+      "salary": 4400,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 17.214,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 14.8,
+      "error": -2.414,
+      "played": true
+    },
+    {
+      "player": "Egor Demin",
+      "team": "BKN",
+      "opponent": "DET",
+      "salary": 5000,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 19.496,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -19.496,
+      "played": false
+    },
+    {
+      "player": "Immanuel Quickley",
+      "team": "TOR",
+      "opponent": "ORL",
+      "salary": 6500,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 25.261,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 36.2,
+      "error": 10.939,
+      "played": true
+    },
+    {
+      "player": "Jabari Smith Jr",
+      "team": "HOU",
+      "opponent": "DAL",
+      "salary": 6600,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 25.625,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 31.6,
+      "error": 5.975,
+      "played": true
+    },
+    {
+      "player": "Norman Powell",
+      "team": "CHI",
+      "opponent": "BOS",
+      "salary": 6200,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 24.027,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 22.9,
+      "error": -1.127,
+      "played": true
+    },
+    {
+      "player": "Paolo Banchero",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 8800,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 34.092,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -34.092,
+      "played": false
+    },
+    {
+      "player": "Julian Phillips",
+      "team": "HOU",
+      "opponent": "DAL",
+      "salary": 3000,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 11.59,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -11.59,
+      "played": false
+    },
+    {
+      "player": "Paul Reed",
+      "team": "DET",
+      "opponent": "BKN",
+      "salary": 6300,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 24.207,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 21.3,
+      "error": -2.907,
+      "played": true
+    },
+    {
+      "player": "John Collins",
+      "team": "DET",
+      "opponent": "BKN",
+      "salary": 6000,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 22.98,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 17.8,
+      "error": -5.18,
+      "played": true
+    },
+    {
+      "player": "Sam Hauser",
+      "team": "BOS",
+      "opponent": "CHI",
+      "salary": 4500,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 17.183,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 12.6,
+      "error": -4.583,
+      "played": true
+    },
+    {
+      "player": "Cooper Flagg",
+      "team": "DAL",
+      "opponent": "HOU",
+      "salary": 9500,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 36.24,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 61.8,
+      "error": 25.56,
+      "played": true
+    },
+    {
+      "player": "Karl-Anthony Towns",
+      "team": "NYK",
+      "opponent": "PHI",
+      "salary": 8500,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 32.337,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 43.9,
+      "error": 11.563,
+      "played": true
+    },
+    {
+      "player": "Wendell Carter Jr",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 6000,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 22.725,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 35.9,
+      "error": 13.175,
+      "played": true
+    },
+    {
+      "player": "Naz Reid",
+      "team": "CHA",
+      "opponent": "WAS",
+      "salary": 6900,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 26.112,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 35.7,
+      "error": 9.588,
+      "played": true
+    },
+    {
+      "player": "Derrick White",
+      "team": "BOS",
+      "opponent": "CHI",
+      "salary": 6700,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 25.329,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 23.4,
+      "error": -1.929,
+      "played": true
+    },
+    {
+      "player": "Tristan Da Silva",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 5200,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 19.506,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 11.0,
+      "error": -8.506,
+      "played": true
+    },
+    {
+      "player": "Dennis Schroder",
+      "team": "CHA",
+      "opponent": "WAS",
+      "salary": 5400,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 20.225,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 31.4,
+      "error": 11.175,
+      "played": true
+    },
+    {
+      "player": "Dereck Lively II",
+      "team": "DAL",
+      "opponent": "HOU",
+      "salary": 4300,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 16.063,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -16.063,
+      "played": false
+    },
+    {
+      "player": "Jonathan Isaac",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 3000,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 11.169,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -11.169,
+      "played": false
+    },
+    {
+      "player": "Larry Nance Jr",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 3800,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 14.135,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 24.9,
+      "error": 10.765,
+      "played": true
+    },
+    {
+      "player": "Tolu Smith",
+      "team": "DET",
+      "opponent": "BKN",
+      "salary": 3000,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 11.148,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 4.7,
+      "error": -6.448,
+      "played": true
+    },
+    {
+      "player": "Tidjane Salaun",
+      "team": "CHA",
+      "opponent": "WAS",
+      "salary": 3100,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 11.412,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 8.4,
+      "error": -3.012,
+      "played": true
+    },
+    {
+      "player": "Darius Garland",
+      "team": "LAC",
+      "opponent": "MIN",
+      "salary": 8300,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 30.526,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 36.9,
+      "error": 6.374,
+      "played": true
+    },
+    {
+      "player": "Derrick Jones Jr",
+      "team": "LAC",
+      "opponent": "MIN",
+      "salary": 5000,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 18.384,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 15.7,
+      "error": -2.684,
+      "played": true
+    },
+    {
+      "player": "P.J. Washington",
+      "team": "DAL",
+      "opponent": "HOU",
+      "salary": 6700,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 24.586,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 16.5,
+      "error": -8.086,
+      "played": true
+    },
+    {
+      "player": "Kon Knueppel",
+      "team": "CHA",
+      "opponent": "WAS",
+      "salary": 7000,
+      "roster_slots": [
+        "SG"
+      ],
+      "projection": 25.639,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -25.639,
+      "played": false
+    },
+    {
+      "player": "Cade Cunningham",
+      "team": "DET",
+      "opponent": "BKN",
+      "salary": 9600,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 34.981,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 35.0,
+      "error": 0.019,
+      "played": true
+    },
+    {
+      "player": "Jayson Tatum",
+      "team": "BOS",
+      "opponent": "CHI",
+      "salary": 9800,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 35.697,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 44.9,
+      "error": 9.203,
+      "played": true
+    },
+    {
+      "player": "Enrique Freeman",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 3000,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 10.867,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -10.867,
+      "played": false
+    },
+    {
+      "player": "Nikola Jovic",
+      "team": "MIA",
+      "opponent": "IND",
+      "salary": 3100,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 11.211,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 12.3,
+      "error": 1.089,
+      "played": true
+    },
+    {
+      "player": "Brandon Miller",
+      "team": "CHA",
+      "opponent": "WAS",
+      "salary": 7800,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 28.039,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 36.4,
+      "error": 8.361,
+      "played": true
+    },
+    {
+      "player": "Rocco Zikarsky",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 3000,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 10.766,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -10.766,
+      "played": false
+    },
+    {
+      "player": "Ivica Zubac",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 6900,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 24.721,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -24.721,
+      "played": true
+    },
+    {
+      "player": "Jae'sean Tate",
+      "team": "HOU",
+      "opponent": "DAL",
+      "salary": 3000,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 10.693,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -10.693,
+      "played": true
+    },
+    {
+      "player": "Landry Shamet",
+      "team": "NYK",
+      "opponent": "PHI",
+      "salary": 4200,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 14.949,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 3.0,
+      "error": -11.949,
+      "played": true
+    },
+    {
+      "player": "Anthony Edwards",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 9200,
+      "roster_slots": [
+        "SG"
+      ],
+      "projection": 32.464,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -32.464,
+      "played": false
+    },
+    {
+      "player": "Trae Young",
+      "team": "WAS",
+      "opponent": "CHA",
+      "salary": 8000,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 27.841,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 54.9,
+      "error": 27.059,
+      "played": true
+    },
+    {
+      "player": "Jett Howard",
+      "team": "DAL",
+      "opponent": "HOU",
+      "salary": 3000,
+      "roster_slots": [
+        "SG"
+      ],
+      "projection": 10.357,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -10.357,
+      "played": true
+    },
+    {
+      "player": "Hugo Gonzalez",
+      "team": "BOS",
+      "opponent": "CHI",
+      "salary": 3400,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 11.723,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 5.4,
+      "error": -6.323,
+      "played": true
+    },
+    {
+      "player": "Giannis Antetokounmpo",
+      "team": "MIA",
+      "opponent": "IND",
+      "salary": 10500,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 35.715,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 70.6,
+      "error": 34.885,
+      "played": true
+    },
+    {
+      "player": "Myron Gardner",
+      "team": "MIA",
+      "opponent": "IND",
+      "salary": 3000,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 10.121,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 2.7,
+      "error": -7.421,
+      "played": true
+    },
+    {
+      "player": "Liam McNeeley",
+      "team": "CHA",
+      "opponent": "WAS",
+      "salary": 3000,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 10.089,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 2.4,
+      "error": -7.689,
+      "played": true
+    },
+    {
+      "player": "Rui Hachimura",
+      "team": "LAC",
+      "opponent": "MIN",
+      "salary": 6000,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 19.669,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 24.0,
+      "error": 4.331,
+      "played": true
+    },
+    {
+      "player": "Colin Castleton",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 3000,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 9.681,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -9.681,
+      "played": true
+    },
+    {
+      "player": "Coby White",
+      "team": "CHA",
+      "opponent": "WAS",
+      "salary": 6000,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 19.173,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -19.173,
+      "played": false
+    },
+    {
+      "player": "Franz Wagner",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 8000,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 25.545,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 51.5,
+      "error": 25.955,
+      "played": true
+    },
+    {
+      "player": "Jabari Walker",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 3000,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 9.563,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -9.563,
+      "played": false
+    },
+    {
+      "player": "Tre Mann",
+      "team": "WAS",
+      "opponent": "CHA",
+      "salary": 3000,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 9.516,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -9.516,
+      "played": true
+    },
+    {
+      "player": "Amari Williams",
+      "team": "BOS",
+      "opponent": "CHI",
+      "salary": 3000,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 9.329,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -9.329,
+      "played": false
+    },
+    {
+      "player": "Alijah Martin",
+      "team": "TOR",
+      "opponent": "ORL",
+      "salary": 3000,
+      "roster_slots": [
+        "SG"
+      ],
+      "projection": 9.298,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -9.298,
+      "played": true
+    },
+    {
+      "player": "Tyler Kolek",
+      "team": "NYK",
+      "opponent": "PHI",
+      "salary": 3700,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 11.413,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 9.2,
+      "error": -2.213,
+      "played": true
+    },
+    {
+      "player": "Zaccharie Risacher",
+      "team": "DAL",
+      "opponent": "HOU",
+      "salary": 5500,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 16.706,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 35.7,
+      "error": 18.994,
+      "played": true
+    },
+    {
+      "player": "Pacome Dadiet",
+      "team": "NYK",
+      "opponent": "PHI",
+      "salary": 3000,
+      "roster_slots": [
+        "SF",
+        "SG"
+      ],
+      "projection": 9.085,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -9.085,
+      "played": true
+    },
+    {
+      "player": "Tacko Fall",
+      "team": "PHI",
+      "opponent": "NYK",
+      "salary": 3000,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 9.065,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -9.065,
+      "played": false
+    },
+    {
+      "player": "Reece Beekman",
+      "team": "WAS",
+      "opponent": "CHA",
+      "salary": 3000,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 9.065,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -9.065,
+      "played": false
+    },
+    {
+      "player": "Vladislav Goldin",
+      "team": "MIA",
+      "opponent": "IND",
+      "salary": 3000,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 8.684,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -8.684,
+      "played": false
+    },
+    {
+      "player": "Isaiah Crawford",
+      "team": "HOU",
+      "opponent": "DAL",
+      "salary": 3000,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 8.672,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -8.672,
+      "played": true
+    },
+    {
+      "player": "Noah Penda",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 3600,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 10.299,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -10.299,
+      "played": false
+    },
+    {
+      "player": "Chaz Lanier",
+      "team": "DET",
+      "opponent": "BKN",
+      "salary": 3000,
+      "roster_slots": [
+        "SG"
+      ],
+      "projection": 8.426,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 6.0,
+      "error": -2.426,
+      "played": true
+    },
+    {
+      "player": "Alex Morales",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 3000,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 8.378,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 1.2,
+      "error": -7.178,
+      "played": true
+    },
+    {
+      "player": "Trayce Jackson-Davis",
+      "team": "TOR",
+      "opponent": "ORL",
+      "salary": 3500,
+      "roster_slots": [
+        "C"
+      ],
+      "projection": 9.753,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -9.753,
+      "played": true
+    },
+    {
+      "player": "Isaac Jones",
+      "team": "DET",
+      "opponent": "BKN",
+      "salary": 3000,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 8.265,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -8.265,
+      "played": true
+    },
+    {
+      "player": "Trey Lyles",
+      "team": "MIN",
+      "opponent": "LAC",
+      "salary": 3300,
+      "roster_slots": [
+        "C",
+        "PF"
+      ],
+      "projection": 9.065,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 16.0,
+      "error": 6.935,
+      "played": true
+    },
+    {
+      "player": "Gradey Dick",
+      "team": "LAC",
+      "opponent": "MIN",
+      "salary": 3600,
+      "roster_slots": [
+        "PF",
+        "SF"
+      ],
+      "projection": 9.541,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 7.5,
+      "error": -2.041,
+      "played": true
+    },
+    {
+      "player": "Noa Essengue",
+      "team": "CHI",
+      "opponent": "BOS",
+      "salary": 3200,
+      "roster_slots": [
+        "PF"
+      ],
+      "projection": 8.293,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 14.8,
+      "error": 6.507,
+      "played": true
+    },
+    {
+      "player": "Jase Richardson",
+      "team": "ORL",
+      "opponent": "TOR",
+      "salary": 3900,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 10.057,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 23.2,
+      "error": 13.143,
+      "played": true
+    },
+    {
+      "player": "Marcus Sasser",
+      "team": "DAL",
+      "opponent": "HOU",
+      "salary": 4400,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 11.277,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 1.5,
+      "error": -9.777,
+      "played": true
+    },
+    {
+      "player": "Jamison Battle",
+      "team": "TOR",
+      "opponent": "ORL",
+      "salary": 3600,
+      "roster_slots": [
+        "SF"
+      ],
+      "projection": 8.479,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 2.0,
+      "error": -6.479,
+      "played": true
+    },
+    {
+      "player": "Mikel Brown Jr",
+      "team": "BKN",
+      "opponent": "DET",
+      "salary": 4900,
+      "roster_slots": [
+        "PG",
+        "SG"
+      ],
+      "projection": 9.208,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 19.0,
+      "error": 9.792,
+      "played": true
+    },
+    {
+      "player": "Fred VanVleet",
+      "team": "HOU",
+      "opponent": "DAL",
+      "salary": 6200,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 9.065,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 34.0,
+      "error": 24.935,
+      "played": true
+    },
+    {
+      "player": "Kyrie Irving",
+      "team": "DAL",
+      "opponent": "HOU",
+      "salary": 7400,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 9.065,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 53.3,
+      "error": 44.235,
+      "played": true
+    },
+    {
+      "player": "Tyrese Haliburton",
+      "team": "IND",
+      "opponent": "MIA",
+      "salary": 8400,
+      "roster_slots": [
+        "PG"
+      ],
+      "projection": 9.065,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool.",
+      "actual_fantasy_points": 0.0,
+      "error": -9.065,
+      "played": false
+    }
+  ],
+  "limitations": [
+    "Results are graded against the research scoring profile; this is not contest ROI.",
+    "Players absent from a completed team game are treated as zero fantasy points."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "contract": "dfsrase-public-results-v1",
+  "slate_date": "2026-10-30",
+  "graded_window": "final",
+  "graded_at": "2026-10-31T08:05:01.969575+00:00",
+  "coverage": {
+    "board_rows": 231,
+    "completed_teams": 20
+  },
+  "summary": {
+    "mae": 11.984,
+    "mean_error_actual_minus_projection": -5.164,
+    "best_actual_player": "Giannis Antetokounmpo",
+    "best_actual_fantasy_points": 70.6
+  },
+  "featured_result": {
+    "player": "Giannis Antetokounmpo",
+    "team": "MIA",
+    "projection": 35.715,
+    "actual_fantasy_points": 70.6,
+    "error": 34.885,
+    "played": true,
+    "decision": "CONSIDER"
+  },
+  "limitations": [
+    "Results are graded against the research scoring profile; this is not contest ROI.",
+    "Players absent from a completed team game are treated as zero fantasy points."
+  ]
+}

@@ -3,16 +3,28 @@
   "guest_limit": 10,
   "dates": [
     {
-      "slate_date": "2026-10-26",
+      "slate_date": "2026-10-31",
       "status": "graded",
       "version": 1,
       "summary": {
-        "mae": 13.169,
-        "mean_error_actual_minus_projection": -5.308,
-        "best_actual_player": "Cooper Flagg",
-        "best_actual_fantasy_points": 76.7
+        "mae": 12.627,
+        "mean_error_actual_minus_projection": -7.422,
+        "best_actual_player": "Victor Wembanyama",
+        "best_actual_fantasy_points": 78.4
       },
-      "player_count": 200
+      "player_count": 142
+    },
+    {
+      "slate_date": "2026-10-30",
+      "status": "graded",
+      "version": 1,
+      "summary": {
+        "mae": 11.984,
+        "mean_error_actual_minus_projection": -5.164,
+        "best_actual_player": "Giannis Antetokounmpo",
+        "best_actual_fantasy_points": 70.6
+      },
+      "player_count": 231
     },
     {
       "slate_date": "2026-10-25",
