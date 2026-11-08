@@ -1,47 +1,47 @@
 {
   "contract": "dfsrase-public-slate-v1",
-  "generated_at": "2026-11-01T21:00:18.248074+00:00",
-  "run_date": "2026-11-01",
-  "window": "afternoon",
+  "generated_at": "2026-11-08T09:05:05.110983+00:00",
+  "run_date": "2026-11-08",
+  "window": "early",
   "version": 1,
-  "as_of_timestamp": "2026-11-01T21:00:18.244808+00:00",
+  "as_of_timestamp": "2026-11-08T09:05:05.107080+00:00",
   "previous_night": null,
   "status": "ready",
   "provider": "DraftKings",
   "slate_name": null,
   "free_preview": [
     {
-      "player": "Devin Carter",
-      "team": "BOS",
+      "player": "Taurean Prince",
+      "team": "DET",
+      "salary": 3000,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Patrick Williams",
+      "team": "CHI",
+      "salary": 3000,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Rayan Rupert",
+      "team": "PHI",
       "salary": 4000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Josh Minott",
-      "team": "BKN",
-      "salary": 3500,
+      "player": "Dominick Barlow",
+      "team": "PHI",
+      "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Quenton Jackson",
-      "team": "IND",
-      "salary": 3800,
-      "decision": "PLAY",
-      "reason": "Strong projected fantasy points per $1,000."
-    },
-    {
-      "player": "Jay Huff",
-      "team": "IND",
-      "salary": 4100,
-      "decision": "PLAY",
-      "reason": "Strong projected fantasy points per $1,000."
-    },
-    {
-      "player": "Neemias Queta",
-      "team": "BOS",
-      "salary": 4400,
+      "player": "Leonard Miller",
+      "team": "CHI",
+      "salary": 4000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     }
