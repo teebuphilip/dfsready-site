@@ -1,47 +1,47 @@
 {
   "contract": "dfsrase-public-slate-v1",
-  "generated_at": "2026-11-08T21:00:10.259471+00:00",
-  "run_date": "2026-11-08",
-  "window": "afternoon",
+  "generated_at": "2026-11-15T09:05:06.127660+00:00",
+  "run_date": "2026-11-15",
+  "window": "early",
   "version": 1,
-  "as_of_timestamp": "2026-11-08T21:00:10.256204+00:00",
+  "as_of_timestamp": "2026-11-15T09:05:06.122269+00:00",
   "previous_night": null,
   "status": "ready",
   "provider": "DraftKings",
   "slate_name": null,
   "free_preview": [
     {
-      "player": "Taurean Prince",
-      "team": "DET",
+      "player": "Jalen Williams",
+      "team": "OKC",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Patrick Williams",
-      "team": "CHI",
+      "player": "Moussa Cisse",
+      "team": "DAL",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Rayan Rupert",
-      "team": "PHI",
-      "salary": 4000,
+      "player": "Will Riley",
+      "team": "WAS",
+      "salary": 3200,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Dominick Barlow",
-      "team": "PHI",
+      "player": "Jamir Watkins",
+      "team": "WAS",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Leonard Miller",
-      "team": "CHI",
-      "salary": 4000,
+      "player": "Justin Champagnie",
+      "team": "WAS",
+      "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     }
