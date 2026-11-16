@@ -1,31 +1,8 @@
 {
   "contract": "dfsrase-public-history-index-v1",
   "guest_limit": 10,
+  "download": "final-board-history.csv",
   "dates": [
-    {
-      "slate_date": "2026-10-31",
-      "status": "graded",
-      "version": 1,
-      "summary": {
-        "mae": 12.627,
-        "mean_error_actual_minus_projection": -7.422,
-        "best_actual_player": "Victor Wembanyama",
-        "best_actual_fantasy_points": 78.4
-      },
-      "player_count": 142
-    },
-    {
-      "slate_date": "2026-10-30",
-      "status": "graded",
-      "version": 1,
-      "summary": {
-        "mae": 11.984,
-        "mean_error_actual_minus_projection": -5.164,
-        "best_actual_player": "Giannis Antetokounmpo",
-        "best_actual_fantasy_points": 70.6
-      },
-      "player_count": 231
-    },
     {
       "slate_date": "2026-10-25",
       "status": "graded",
@@ -36,7 +13,8 @@
         "best_actual_player": "Cade Cunningham",
         "best_actual_fantasy_points": 59.6
       },
-      "player_count": 114
+      "player_count": 114,
+      "path": "2026-10-25.json"
     },
     {
       "slate_date": "2026-10-24",
@@ -48,7 +26,8 @@
         "best_actual_player": "Jalen Johnson",
         "best_actual_fantasy_points": 66.8
       },
-      "player_count": 142
+      "player_count": 142,
+      "path": "2026-10-24.json"
     },
     {
       "slate_date": "2026-10-22",
@@ -60,7 +39,8 @@
         "best_actual_player": "Donovan Mitchell",
         "best_actual_fantasy_points": 57.5
       },
-      "player_count": 55
+      "player_count": 55,
+      "path": "2026-10-22.json"
     },
     {
       "slate_date": "2026-10-21",
@@ -72,7 +52,8 @@
         "best_actual_player": "Anthony Edwards",
         "best_actual_fantasy_points": 70.5
       },
-      "player_count": 321
+      "player_count": 321,
+      "path": "2026-10-21.json"
     }
   ],
   "limitations": [
