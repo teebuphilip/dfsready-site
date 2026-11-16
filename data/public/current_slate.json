@@ -1,25 +1,39 @@
 {
   "contract": "dfsrase-public-slate-v1",
-  "generated_at": "2026-11-15T21:00:30.522340+00:00",
-  "run_date": "2026-11-15",
-  "window": "afternoon",
+  "generated_at": "2026-11-16T17:53:20.588105+00:00",
+  "run_date": "2026-11-16",
+  "window": "early",
   "version": 1,
-  "as_of_timestamp": "2026-11-15T21:00:30.518730+00:00",
+  "as_of_timestamp": "2026-11-16T17:53:20.583176+00:00",
   "previous_night": null,
   "status": "ready",
   "provider": "DraftKings",
   "slate_name": null,
   "free_preview": [
     {
-      "player": "Jalen Williams",
-      "team": "OKC",
+      "player": "Julian Reese",
+      "team": "NOP",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Moussa Cisse",
-      "team": "DAL",
+      "player": "Cody Williams",
+      "team": "MIN",
+      "salary": 3000,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Shaedon Sharpe",
+      "team": "POR",
+      "salary": 3000,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Kristaps Porzingis",
+      "team": "GSW",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
@@ -27,21 +41,7 @@
     {
       "player": "Will Riley",
       "team": "WAS",
-      "salary": 3200,
-      "decision": "PLAY",
-      "reason": "Strong projected fantasy points per $1,000."
-    },
-    {
-      "player": "Jamir Watkins",
-      "team": "WAS",
-      "salary": 3000,
-      "decision": "PLAY",
-      "reason": "Strong projected fantasy points per $1,000."
-    },
-    {
-      "player": "Justin Champagnie",
-      "team": "WAS",
-      "salary": 3000,
+      "salary": 3100,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     }
