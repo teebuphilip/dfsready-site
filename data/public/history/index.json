@@ -4,6 +4,19 @@
   "download": "final-board-history.csv",
   "dates": [
     {
+      "slate_date": "2026-11-16",
+      "status": "graded",
+      "version": 1,
+      "summary": {
+        "mae": 13.571,
+        "mean_error_actual_minus_projection": -6.489,
+        "best_actual_player": "Donovan Mitchell",
+        "best_actual_fantasy_points": 58.8
+      },
+      "player_count": 207,
+      "path": "2026-11-16.json"
+    },
+    {
       "slate_date": "2026-10-25",
       "status": "graded",
       "version": 1,

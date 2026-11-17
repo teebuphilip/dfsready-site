@@ -1,22 +1,43 @@
 {
   "contract": "dfsrase-public-slate-v1",
-  "generated_at": "2026-11-16T23:30:18.319080+00:00",
-  "run_date": "2026-11-16",
-  "window": "final",
+  "generated_at": "2026-11-17T09:05:05.240518+00:00",
+  "run_date": "2026-11-17",
+  "window": "early",
   "version": 1,
-  "as_of_timestamp": "2026-11-16T23:30:18.313764+00:00",
-  "previous_night": null,
+  "as_of_timestamp": "2026-11-17T09:05:05.234795+00:00",
+  "previous_night": {
+    "contract": "dfsrase-public-results-v1",
+    "slate_date": "2026-11-16",
+    "graded_window": "final",
+    "graded_at": "2026-11-17T09:05:02.058363+00:00",
+    "coverage": {
+      "board_rows": 207,
+      "completed_teams": 16
+    },
+    "summary": {
+      "mae": 13.571,
+      "mean_error_actual_minus_projection": -6.489,
+      "best_actual_player": "Donovan Mitchell",
+      "best_actual_fantasy_points": 58.8
+    },
+    "featured_result": {
+      "player": "Donovan Mitchell",
+      "team": "CLE",
+      "projection": 34.35,
+      "actual_fantasy_points": 58.8,
+      "error": 24.45,
+      "played": true,
+      "decision": "CONSIDER"
+    },
+    "limitations": [
+      "Results are graded against the research scoring profile; this is not contest ROI.",
+      "Players absent from a completed team game are treated as zero fantasy points."
+    ]
+  },
   "status": "ready",
   "provider": "DraftKings",
   "slate_name": null,
   "free_preview": [
-    {
-      "player": "Julian Reese",
-      "team": "NOP",
-      "salary": 3000,
-      "decision": "PLAY",
-      "reason": "Strong projected fantasy points per $1,000."
-    },
     {
       "player": "Cody Williams",
       "team": "MIN",
@@ -32,16 +53,23 @@
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Kristaps Porzingis",
-      "team": "GSW",
+      "player": "Kyle Filipowski",
+      "team": "UTA",
+      "salary": 4200,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Micah Potter",
+      "team": "POR",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Will Riley",
-      "team": "WAS",
-      "salary": 3100,
+      "player": "Taurean Prince",
+      "team": "DET",
+      "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     }
