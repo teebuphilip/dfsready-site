@@ -4,6 +4,19 @@
   "download": "final-board-history.csv",
   "dates": [
     {
+      "slate_date": "2026-11-17",
+      "status": "graded",
+      "version": 1,
+      "summary": {
+        "mae": 13.539,
+        "mean_error_actual_minus_projection": -5.269,
+        "best_actual_player": "Brice Sensabaugh",
+        "best_actual_fantasy_points": 63.7
+      },
+      "player_count": 143,
+      "path": "2026-11-17.json"
+    },
+    {
       "slate_date": "2026-11-16",
       "status": "graded",
       "version": 1,

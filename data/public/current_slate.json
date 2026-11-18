@@ -1,46 +1,74 @@
 {
   "contract": "dfsrase-public-slate-v1",
-  "generated_at": "2026-11-17T23:30:14.229241+00:00",
-  "run_date": "2026-11-17",
-  "window": "final",
+  "generated_at": "2026-11-18T09:05:06.221760+00:00",
+  "run_date": "2026-11-18",
+  "window": "early",
   "version": 1,
-  "as_of_timestamp": "2026-11-17T23:30:14.225438+00:00",
-  "previous_night": null,
+  "as_of_timestamp": "2026-11-18T09:05:06.212858+00:00",
+  "previous_night": {
+    "contract": "dfsrase-public-results-v1",
+    "slate_date": "2026-11-17",
+    "graded_window": "final",
+    "graded_at": "2026-11-18T09:05:01.753276+00:00",
+    "coverage": {
+      "board_rows": 143,
+      "completed_teams": 10
+    },
+    "summary": {
+      "mae": 13.539,
+      "mean_error_actual_minus_projection": -5.269,
+      "best_actual_player": "Brice Sensabaugh",
+      "best_actual_fantasy_points": 63.7
+    },
+    "featured_result": {
+      "player": "Brice Sensabaugh",
+      "team": "UTA",
+      "projection": 27.72,
+      "actual_fantasy_points": 63.7,
+      "error": 35.98,
+      "played": true,
+      "decision": "PLAY"
+    },
+    "limitations": [
+      "Results are graded against the research scoring profile; this is not contest ROI.",
+      "Players absent from a completed team game are treated as zero fantasy points."
+    ]
+  },
   "status": "ready",
   "provider": "DraftKings",
   "slate_name": null,
   "free_preview": [
     {
-      "player": "Cody Williams",
-      "team": "MIN",
+      "player": "Jalen Williams",
+      "team": "OKC",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Shaedon Sharpe",
-      "team": "POR",
+      "player": "Kristaps Porzingis",
+      "team": "GSW",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Kyle Filipowski",
-      "team": "UTA",
-      "salary": 4200,
-      "decision": "PLAY",
-      "reason": "Strong projected fantasy points per $1,000."
-    },
-    {
-      "player": "Micah Potter",
-      "team": "POR",
+      "player": "Moses Moody",
+      "team": "GSW",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Taurean Prince",
-      "team": "DET",
+      "player": "Cormac Ryan",
+      "team": "MIL",
+      "salary": 3000,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Jamir Watkins",
+      "team": "WAS",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
