@@ -1,39 +1,11 @@
 {
   "contract": "dfsrase-public-slate-v1",
-  "generated_at": "2026-11-18T09:05:06.221760+00:00",
+  "generated_at": "2026-11-18T21:00:18.999603+00:00",
   "run_date": "2026-11-18",
-  "window": "early",
+  "window": "afternoon",
   "version": 1,
-  "as_of_timestamp": "2026-11-18T09:05:06.212858+00:00",
-  "previous_night": {
-    "contract": "dfsrase-public-results-v1",
-    "slate_date": "2026-11-17",
-    "graded_window": "final",
-    "graded_at": "2026-11-18T09:05:01.753276+00:00",
-    "coverage": {
-      "board_rows": 143,
-      "completed_teams": 10
-    },
-    "summary": {
-      "mae": 13.539,
-      "mean_error_actual_minus_projection": -5.269,
-      "best_actual_player": "Brice Sensabaugh",
-      "best_actual_fantasy_points": 63.7
-    },
-    "featured_result": {
-      "player": "Brice Sensabaugh",
-      "team": "UTA",
-      "projection": 27.72,
-      "actual_fantasy_points": 63.7,
-      "error": 35.98,
-      "played": true,
-      "decision": "PLAY"
-    },
-    "limitations": [
-      "Results are graded against the research scoring profile; this is not contest ROI.",
-      "Players absent from a completed team game are treated as zero fantasy points."
-    ]
-  },
+  "as_of_timestamp": "2026-11-18T21:00:18.956865+00:00",
+  "previous_night": null,
   "status": "ready",
   "provider": "DraftKings",
   "slate_name": null,
