@@ -4,6 +4,19 @@
   "download": "final-board-history.csv",
   "dates": [
     {
+      "slate_date": "2026-11-18",
+      "status": "graded",
+      "version": 1,
+      "summary": {
+        "mae": 11.059,
+        "mean_error_actual_minus_projection": -4.045,
+        "best_actual_player": "Franz Wagner",
+        "best_actual_fantasy_points": 65.1
+      },
+      "player_count": 257,
+      "path": "2026-11-18.json"
+    },
+    {
       "slate_date": "2026-11-17",
       "status": "graded",
       "version": 1,

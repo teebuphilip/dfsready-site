@@ -1,22 +1,43 @@
 {
   "contract": "dfsrase-public-slate-v1",
-  "generated_at": "2026-11-18T23:30:20.758481+00:00",
-  "run_date": "2026-11-18",
-  "window": "final",
+  "generated_at": "2026-11-19T09:05:04.139070+00:00",
+  "run_date": "2026-11-19",
+  "window": "early",
   "version": 1,
-  "as_of_timestamp": "2026-11-18T23:30:20.749497+00:00",
-  "previous_night": null,
+  "as_of_timestamp": "2026-11-19T09:05:04.133381+00:00",
+  "previous_night": {
+    "contract": "dfsrase-public-results-v1",
+    "slate_date": "2026-11-18",
+    "graded_window": "final",
+    "graded_at": "2026-11-19T09:05:01.809191+00:00",
+    "coverage": {
+      "board_rows": 257,
+      "completed_teams": 24
+    },
+    "summary": {
+      "mae": 11.059,
+      "mean_error_actual_minus_projection": -4.045,
+      "best_actual_player": "Franz Wagner",
+      "best_actual_fantasy_points": 65.1
+    },
+    "featured_result": {
+      "player": "Franz Wagner",
+      "team": "ORL",
+      "projection": 39.196,
+      "actual_fantasy_points": 65.1,
+      "error": 25.904,
+      "played": true,
+      "decision": "CONSIDER"
+    },
+    "limitations": [
+      "Results are graded against the research scoring profile; this is not contest ROI.",
+      "Players absent from a completed team game are treated as zero fantasy points."
+    ]
+  },
   "status": "ready",
   "provider": "DraftKings",
   "slate_name": null,
   "free_preview": [
-    {
-      "player": "Jalen Williams",
-      "team": "OKC",
-      "salary": 3000,
-      "decision": "PLAY",
-      "reason": "Strong projected fantasy points per $1,000."
-    },
     {
       "player": "Kristaps Porzingis",
       "team": "GSW",
@@ -32,6 +53,13 @@
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
+      "player": "Shaedon Sharpe",
+      "team": "POR",
+      "salary": 3000,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
       "player": "Cormac Ryan",
       "team": "MIL",
       "salary": 3000,
@@ -39,8 +67,8 @@
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Jamir Watkins",
-      "team": "WAS",
+      "player": "Jordan Miller",
+      "team": "LAC",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
