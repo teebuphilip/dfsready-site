@@ -4,6 +4,19 @@
   "download": "final-board-history.csv",
   "dates": [
     {
+      "slate_date": "2026-11-19",
+      "status": "graded",
+      "version": 1,
+      "summary": {
+        "mae": 11.105,
+        "mean_error_actual_minus_projection": -3.957,
+        "best_actual_player": "Stephon Castle",
+        "best_actual_fantasy_points": 58.2
+      },
+      "player_count": 117,
+      "path": "2026-11-19.json"
+    },
+    {
       "slate_date": "2026-11-18",
       "status": "graded",
       "version": 1,

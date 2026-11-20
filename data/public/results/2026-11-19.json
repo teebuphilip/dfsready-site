@@ -1,0 +1,29 @@
+{
+  "contract": "dfsrase-public-results-v1",
+  "slate_date": "2026-11-19",
+  "graded_window": "final",
+  "graded_at": "2026-11-20T09:05:01.762310+00:00",
+  "coverage": {
+    "board_rows": 117,
+    "completed_teams": 8
+  },
+  "summary": {
+    "mae": 11.105,
+    "mean_error_actual_minus_projection": -3.957,
+    "best_actual_player": "Stephon Castle",
+    "best_actual_fantasy_points": 58.2
+  },
+  "featured_result": {
+    "player": "Stephon Castle",
+    "team": "SAS",
+    "projection": 29.139,
+    "actual_fantasy_points": 58.2,
+    "error": 29.061,
+    "played": true,
+    "decision": "CONSIDER"
+  },
+  "limitations": [
+    "Results are graded against the research scoring profile; this is not contest ROI.",
+    "Players absent from a completed team game are treated as zero fantasy points."
+  ]
+}
