@@ -1,0 +1,29 @@
+{
+  "contract": "dfsrase-public-results-v1",
+  "slate_date": "2026-11-20",
+  "graded_window": "final",
+  "graded_at": "2026-11-21T09:05:01.303974+00:00",
+  "coverage": {
+    "board_rows": 167,
+    "completed_teams": 18
+  },
+  "summary": {
+    "mae": 11.227,
+    "mean_error_actual_minus_projection": -4.728,
+    "best_actual_player": "James Harden",
+    "best_actual_fantasy_points": 70.2
+  },
+  "featured_result": {
+    "player": "James Harden",
+    "team": "CLE",
+    "projection": 30.25,
+    "actual_fantasy_points": 70.2,
+    "error": 39.95,
+    "played": true,
+    "decision": "CONSIDER"
+  },
+  "limitations": [
+    "Results are graded against the research scoring profile; this is not contest ROI.",
+    "Players absent from a completed team game are treated as zero fantasy points."
+  ]
+}

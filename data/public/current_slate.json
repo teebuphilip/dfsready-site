@@ -1,49 +1,77 @@
 {
   "contract": "dfsrase-public-slate-v1",
-  "generated_at": "2026-11-20T23:30:16.572095+00:00",
-  "run_date": "2026-11-20",
-  "window": "final",
+  "generated_at": "2026-11-21T09:05:04.304349+00:00",
+  "run_date": "2026-11-21",
+  "window": "early",
   "version": 1,
-  "as_of_timestamp": "2026-11-20T23:30:16.567369+00:00",
-  "previous_night": null,
+  "as_of_timestamp": "2026-11-21T09:05:04.299564+00:00",
+  "previous_night": {
+    "contract": "dfsrase-public-results-v1",
+    "slate_date": "2026-11-20",
+    "graded_window": "final",
+    "graded_at": "2026-11-21T09:05:01.303974+00:00",
+    "coverage": {
+      "board_rows": 167,
+      "completed_teams": 18
+    },
+    "summary": {
+      "mae": 11.227,
+      "mean_error_actual_minus_projection": -4.728,
+      "best_actual_player": "James Harden",
+      "best_actual_fantasy_points": 70.2
+    },
+    "featured_result": {
+      "player": "James Harden",
+      "team": "CLE",
+      "projection": 30.25,
+      "actual_fantasy_points": 70.2,
+      "error": 39.95,
+      "played": true,
+      "decision": "CONSIDER"
+    },
+    "limitations": [
+      "Results are graded against the research scoring profile; this is not contest ROI.",
+      "Players absent from a completed team game are treated as zero fantasy points."
+    ]
+  },
   "status": "ready",
   "provider": "DraftKings",
   "slate_name": null,
   "free_preview": [
     {
-      "player": "Jalen Williams",
-      "team": "OKC",
+      "player": "Shaedon Sharpe",
+      "team": "POR",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Justin Champagnie",
-      "team": "WAS",
+      "player": "Jordan Miller",
+      "team": "LAC",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Jamir Watkins",
-      "team": "WAS",
+      "player": "Donte DiVincenzo",
+      "team": "MIN",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Cason Wallace",
-      "team": "OKC",
-      "salary": 3000,
+      "player": "Isaiah Jackson",
+      "team": "LAC",
+      "salary": 4100,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Tristan Vukcevic",
-      "team": "WAS",
-      "salary": 3000,
-      "decision": "PLAY",
-      "reason": "Strong projected fantasy points per $1,000."
+      "player": "Derik Queen",
+      "team": "NOP",
+      "salary": 5000,
+      "decision": "CONSIDER",
+      "reason": "Projection and salary remain in the viable pool."
     }
   ],
   "limitations": [

@@ -4,6 +4,19 @@
   "download": "final-board-history.csv",
   "dates": [
     {
+      "slate_date": "2026-11-20",
+      "status": "graded",
+      "version": 1,
+      "summary": {
+        "mae": 11.227,
+        "mean_error_actual_minus_projection": -4.728,
+        "best_actual_player": "James Harden",
+        "best_actual_fantasy_points": 70.2
+      },
+      "player_count": 167,
+      "path": "2026-11-20.json"
+    },
+    {
       "slate_date": "2026-11-19",
       "status": "graded",
       "version": 1,
