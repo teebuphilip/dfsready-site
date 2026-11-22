@@ -1,47 +1,75 @@
 {
   "contract": "dfsrase-public-slate-v1",
-  "generated_at": "2026-11-21T23:30:18.202547+00:00",
-  "run_date": "2026-11-21",
-  "window": "final",
+  "generated_at": "2026-11-22T09:05:04.018449+00:00",
+  "run_date": "2026-11-22",
+  "window": "early",
   "version": 1,
-  "as_of_timestamp": "2026-11-21T23:30:18.195722+00:00",
-  "previous_night": null,
+  "as_of_timestamp": "2026-11-22T09:05:04.012790+00:00",
+  "previous_night": {
+    "contract": "dfsrase-public-results-v1",
+    "slate_date": "2026-11-21",
+    "graded_window": "final",
+    "graded_at": "2026-11-22T09:05:01.294549+00:00",
+    "coverage": {
+      "board_rows": 115,
+      "completed_teams": 12
+    },
+    "summary": {
+      "mae": 10.237,
+      "mean_error_actual_minus_projection": -3.873,
+      "best_actual_player": "Victor Wembanyama",
+      "best_actual_fantasy_points": 101.3
+    },
+    "featured_result": {
+      "player": "Victor Wembanyama",
+      "team": "SAS",
+      "projection": 56.395,
+      "actual_fantasy_points": 101.3,
+      "error": 44.905,
+      "played": true,
+      "decision": "CONSIDER"
+    },
+    "limitations": [
+      "Results are graded against the research scoring profile; this is not contest ROI.",
+      "Players absent from a completed team game are treated as zero fantasy points."
+    ]
+  },
   "status": "ready",
   "provider": "DraftKings",
   "slate_name": null,
   "free_preview": [
     {
-      "player": "Shaedon Sharpe",
-      "team": "POR",
+      "player": "Kristaps Porzingis",
+      "team": "GSW",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Jordan Miller",
-      "team": "LAC",
+      "player": "Moses Moody",
+      "team": "GSW",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Zion Williamson",
-      "team": "NOP",
-      "salary": 7100,
+      "player": "Jamir Watkins",
+      "team": "WAS",
+      "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Brook Lopez",
-      "team": "LAC",
-      "salary": 5700,
+      "player": "Justin Champagnie",
+      "team": "WAS",
+      "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Isaiah Jackson",
-      "team": "LAC",
-      "salary": 4100,
+      "player": "Tristan Vukcevic",
+      "team": "WAS",
+      "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     }

@@ -4,6 +4,19 @@
   "download": "final-board-history.csv",
   "dates": [
     {
+      "slate_date": "2026-11-21",
+      "status": "graded",
+      "version": 1,
+      "summary": {
+        "mae": 10.237,
+        "mean_error_actual_minus_projection": -3.873,
+        "best_actual_player": "Victor Wembanyama",
+        "best_actual_fantasy_points": 101.3
+      },
+      "player_count": 115,
+      "path": "2026-11-21.json"
+    },
+    {
       "slate_date": "2026-11-20",
       "status": "graded",
       "version": 1,
