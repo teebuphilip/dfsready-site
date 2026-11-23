@@ -4,6 +4,19 @@
   "download": "final-board-history.csv",
   "dates": [
     {
+      "slate_date": "2026-11-22",
+      "status": "graded",
+      "version": 1,
+      "summary": {
+        "mae": 10.141,
+        "mean_error_actual_minus_projection": -2.79,
+        "best_actual_player": "Nikola Jokic",
+        "best_actual_fantasy_points": 81.1
+      },
+      "player_count": 143,
+      "path": "2026-11-22.json"
+    },
+    {
       "slate_date": "2026-11-21",
       "status": "graded",
       "version": 1,
@@ -119,19 +132,6 @@
       },
       "player_count": 55,
       "path": "2026-10-22.json"
-    },
-    {
-      "slate_date": "2026-10-21",
-      "status": "graded",
-      "version": 1,
-      "summary": {
-        "mae": 12.407,
-        "mean_error_actual_minus_projection": -5.92,
-        "best_actual_player": "Anthony Edwards",
-        "best_actual_fantasy_points": 70.5
-      },
-      "player_count": 321,
-      "path": "2026-10-21.json"
     }
   ],
   "limitations": [
