@@ -1,39 +1,11 @@
 {
   "contract": "dfsrase-public-slate-v1",
-  "generated_at": "2026-11-23T09:05:07.592487+00:00",
+  "generated_at": "2026-11-23T21:00:26.656580+00:00",
   "run_date": "2026-11-23",
-  "window": "early",
+  "window": "afternoon",
   "version": 1,
-  "as_of_timestamp": "2026-11-23T09:05:07.582907+00:00",
-  "previous_night": {
-    "contract": "dfsrase-public-results-v1",
-    "slate_date": "2026-11-22",
-    "graded_window": "final",
-    "graded_at": "2026-11-23T09:05:02.752809+00:00",
-    "coverage": {
-      "board_rows": 143,
-      "completed_teams": 14
-    },
-    "summary": {
-      "mae": 10.141,
-      "mean_error_actual_minus_projection": -2.79,
-      "best_actual_player": "Nikola Jokic",
-      "best_actual_fantasy_points": 81.1
-    },
-    "featured_result": {
-      "player": "Nikola Jokic",
-      "team": "DEN",
-      "projection": 48.764,
-      "actual_fantasy_points": 81.1,
-      "error": 32.336,
-      "played": true,
-      "decision": "CONSIDER"
-    },
-    "limitations": [
-      "Results are graded against the research scoring profile; this is not contest ROI.",
-      "Players absent from a completed team game are treated as zero fantasy points."
-    ]
-  },
+  "as_of_timestamp": "2026-11-23T21:00:26.645906+00:00",
+  "previous_night": null,
   "status": "ready",
   "provider": "DraftKings",
   "slate_name": null,
