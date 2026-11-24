@@ -1,0 +1,29 @@
+{
+  "contract": "dfsrase-public-results-v1",
+  "slate_date": "2026-11-23",
+  "graded_window": "final",
+  "graded_at": "2026-11-24T09:05:01.824950+00:00",
+  "coverage": {
+    "board_rows": 230,
+    "completed_teams": 20
+  },
+  "summary": {
+    "mae": 9.721,
+    "mean_error_actual_minus_projection": -3.205,
+    "best_actual_player": "Scottie Barnes",
+    "best_actual_fantasy_points": 67.0
+  },
+  "featured_result": {
+    "player": "Scottie Barnes",
+    "team": "TOR",
+    "projection": 43.981,
+    "actual_fantasy_points": 67.0,
+    "error": 23.019,
+    "played": true,
+    "decision": "CONSIDER"
+  },
+  "limitations": [
+    "Results are graded against the research scoring profile; this is not contest ROI.",
+    "Players absent from a completed team game are treated as zero fantasy points."
+  ]
+}

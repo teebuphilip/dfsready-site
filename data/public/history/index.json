@@ -4,6 +4,19 @@
   "download": "final-board-history.csv",
   "dates": [
     {
+      "slate_date": "2026-11-23",
+      "status": "graded",
+      "version": 1,
+      "summary": {
+        "mae": 9.721,
+        "mean_error_actual_minus_projection": -3.205,
+        "best_actual_player": "Scottie Barnes",
+        "best_actual_fantasy_points": 67.0
+      },
+      "player_count": 230,
+      "path": "2026-11-23.json"
+    },
+    {
       "slate_date": "2026-11-22",
       "status": "graded",
       "version": 1,
@@ -119,19 +132,6 @@
       },
       "player_count": 142,
       "path": "2026-10-24.json"
-    },
-    {
-      "slate_date": "2026-10-22",
-      "status": "graded",
-      "version": 1,
-      "summary": {
-        "mae": 10.744,
-        "mean_error_actual_minus_projection": -6.429,
-        "best_actual_player": "Donovan Mitchell",
-        "best_actual_fantasy_points": 57.5
-      },
-      "player_count": 55,
-      "path": "2026-10-22.json"
     }
   ],
   "limitations": [
