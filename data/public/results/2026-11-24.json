@@ -1,0 +1,29 @@
+{
+  "contract": "dfsrase-public-results-v1",
+  "slate_date": "2026-11-24",
+  "graded_window": "final",
+  "graded_at": "2026-11-25T09:05:01.272495+00:00",
+  "coverage": {
+    "board_rows": 85,
+    "completed_teams": 6
+  },
+  "summary": {
+    "mae": 7.967,
+    "mean_error_actual_minus_projection": -2.521,
+    "best_actual_player": "Jayson Tatum",
+    "best_actual_fantasy_points": 69.2
+  },
+  "featured_result": {
+    "player": "Jayson Tatum",
+    "team": "BOS",
+    "projection": 44.013,
+    "actual_fantasy_points": 69.2,
+    "error": 25.187,
+    "played": true,
+    "decision": "CONSIDER"
+  },
+  "limitations": [
+    "Results are graded against the research scoring profile; this is not contest ROI.",
+    "Players absent from a completed team game are treated as zero fantasy points."
+  ]
+}

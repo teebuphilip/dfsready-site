@@ -1,47 +1,75 @@
 {
   "contract": "dfsrase-public-slate-v1",
-  "generated_at": "2026-11-24T23:30:12.153255+00:00",
-  "run_date": "2026-11-24",
-  "window": "final",
+  "generated_at": "2026-11-25T09:05:05.133001+00:00",
+  "run_date": "2026-11-25",
+  "window": "early",
   "version": 1,
-  "as_of_timestamp": "2026-11-24T23:30:12.150253+00:00",
-  "previous_night": null,
+  "as_of_timestamp": "2026-11-25T09:05:05.125379+00:00",
+  "previous_night": {
+    "contract": "dfsrase-public-results-v1",
+    "slate_date": "2026-11-24",
+    "graded_window": "final",
+    "graded_at": "2026-11-25T09:05:01.272495+00:00",
+    "coverage": {
+      "board_rows": 85,
+      "completed_teams": 6
+    },
+    "summary": {
+      "mae": 7.967,
+      "mean_error_actual_minus_projection": -2.521,
+      "best_actual_player": "Jayson Tatum",
+      "best_actual_fantasy_points": 69.2
+    },
+    "featured_result": {
+      "player": "Jayson Tatum",
+      "team": "BOS",
+      "projection": 44.013,
+      "actual_fantasy_points": 69.2,
+      "error": 25.187,
+      "played": true,
+      "decision": "CONSIDER"
+    },
+    "limitations": [
+      "Results are graded against the research scoring profile; this is not contest ROI.",
+      "Players absent from a completed team game are treated as zero fantasy points."
+    ]
+  },
   "status": "ready",
   "provider": "DraftKings",
   "slate_name": null,
   "free_preview": [
     {
-      "player": "Jamir Watkins",
-      "team": "WAS",
+      "player": "Jalen Williams",
+      "team": "OKC",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Justin Champagnie",
-      "team": "WAS",
+      "player": "Cormac Ryan",
+      "team": "MIL",
       "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Kyshawn George",
-      "team": "WAS",
-      "salary": 6400,
+      "player": "Cason Wallace",
+      "team": "OKC",
+      "salary": 3000,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Anthony Black",
-      "team": "ORL",
+      "player": "Jordan Miller",
+      "team": "LAC",
+      "salary": 3000,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Chet Holmgren",
+      "team": "OKC",
       "salary": 6500,
-      "decision": "PLAY",
-      "reason": "Strong projected fantasy points per $1,000."
-    },
-    {
-      "player": "Daniel Gafford",
-      "team": "DAL",
-      "salary": 4600,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     }

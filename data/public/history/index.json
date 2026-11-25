@@ -4,6 +4,19 @@
   "download": "final-board-history.csv",
   "dates": [
     {
+      "slate_date": "2026-11-24",
+      "status": "graded",
+      "version": 1,
+      "summary": {
+        "mae": 7.967,
+        "mean_error_actual_minus_projection": -2.521,
+        "best_actual_player": "Jayson Tatum",
+        "best_actual_fantasy_points": 69.2
+      },
+      "player_count": 85,
+      "path": "2026-11-24.json"
+    },
+    {
       "slate_date": "2026-11-23",
       "status": "graded",
       "version": 1,
@@ -119,19 +132,6 @@
       },
       "player_count": 114,
       "path": "2026-10-25.json"
-    },
-    {
-      "slate_date": "2026-10-24",
-      "status": "graded",
-      "version": 1,
-      "summary": {
-        "mae": 12.425,
-        "mean_error_actual_minus_projection": -5.605,
-        "best_actual_player": "Jalen Johnson",
-        "best_actual_fantasy_points": 66.8
-      },
-      "player_count": 142,
-      "path": "2026-10-24.json"
     }
   ],
   "limitations": [

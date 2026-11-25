@@ -1,0 +1,8 @@
+{
+  "contract": "dfsrase-public-window-manifest-v1",
+  "run_date": "2026-11-25",
+  "window": "early",
+  "version": 1,
+  "as_of_timestamp": "2026-11-25T09:05:05.125379+00:00",
+  "private_artifact_sha256": "b8bc8b77b5300ebf38f39c24765ac4fe54ec70c393f06ce0b9fb00562bcc050b"
+}

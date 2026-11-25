@@ -1,7 +1,8 @@
 {
   "contract": "dfsrase-public-grading-v1",
-  "generated_at": "2026-11-24T09:05:01.905279+00:00",
+  "generated_at": "2026-11-25T09:05:01.371742+00:00",
   "graded_slate_dates": [
+    "2026-11-24",
     "2026-11-23",
     "2026-11-22",
     "2026-11-21",
@@ -10,23 +11,22 @@
     "2026-11-18",
     "2026-11-17",
     "2026-11-16",
-    "2026-10-25",
-    "2026-10-24"
+    "2026-10-25"
   ],
   "summary": {
     "graded_slates": 10,
-    "graded_player_rows": 1635,
-    "mae": 11.463,
-    "mean_error_actual_minus_projection": -4.452
+    "graded_player_rows": 1578,
+    "mae": 11.188,
+    "mean_error_actual_minus_projection": -4.244
   },
   "by_decision": {
     "CONSIDER": {
-      "player_rows": 1357,
-      "mae": 10.521
+      "player_rows": 1346,
+      "mae": 10.331
     },
     "PLAY": {
-      "player_rows": 278,
-      "mae": 16.063
+      "player_rows": 232,
+      "mae": 16.163
     }
   },
   "limitations": [
