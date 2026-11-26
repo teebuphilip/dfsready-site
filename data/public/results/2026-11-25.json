@@ -1,0 +1,29 @@
+{
+  "contract": "dfsrase-public-results-v1",
+  "slate_date": "2026-11-25",
+  "graded_window": "final",
+  "graded_at": "2026-11-26T09:05:01.643969+00:00",
+  "coverage": {
+    "board_rows": 168,
+    "completed_teams": 18
+  },
+  "summary": {
+    "mae": 9.466,
+    "mean_error_actual_minus_projection": -3.685,
+    "best_actual_player": "Donovan Mitchell",
+    "best_actual_fantasy_points": 58.8
+  },
+  "featured_result": {
+    "player": "Donovan Mitchell",
+    "team": "CLE",
+    "projection": 42.94,
+    "actual_fantasy_points": 58.8,
+    "error": 15.86,
+    "played": true,
+    "decision": "CONSIDER"
+  },
+  "limitations": [
+    "Results are graded against the research scoring profile; this is not contest ROI.",
+    "Players absent from a completed team game are treated as zero fantasy points."
+  ]
+}
