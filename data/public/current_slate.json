@@ -1,22 +1,15 @@
 {
   "contract": "dfsrase-public-slate-v1",
-  "generated_at": "2026-11-25T23:30:18.966957+00:00",
-  "run_date": "2026-11-25",
-  "window": "final",
+  "generated_at": "2026-11-27T09:05:06.055302+00:00",
+  "run_date": "2026-11-27",
+  "window": "early",
   "version": 1,
-  "as_of_timestamp": "2026-11-25T23:30:18.962666+00:00",
+  "as_of_timestamp": "2026-11-27T09:05:06.047947+00:00",
   "previous_night": null,
   "status": "ready",
   "provider": "DraftKings",
   "slate_name": null,
   "free_preview": [
-    {
-      "player": "Jalen Williams",
-      "team": "OKC",
-      "salary": 3000,
-      "decision": "PLAY",
-      "reason": "Strong projected fantasy points per $1,000."
-    },
     {
       "player": "Cormac Ryan",
       "team": "MIL",
@@ -25,23 +18,30 @@
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Cason Wallace",
-      "team": "OKC",
-      "salary": 3000,
+      "player": "Tyrese Haliburton",
+      "team": "IND",
+      "salary": 8400,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Jordan Miller",
-      "team": "LAC",
-      "salary": 3000,
+      "player": "Mark Williams",
+      "team": "PHX",
+      "salary": 4400,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     },
     {
-      "player": "Chet Holmgren",
-      "team": "OKC",
-      "salary": 6500,
+      "player": "Julius Randle",
+      "team": "BKN",
+      "salary": 7500,
+      "decision": "PLAY",
+      "reason": "Strong projected fantasy points per $1,000."
+    },
+    {
+      "player": "Corey Kispert",
+      "team": "ATL",
+      "salary": 3300,
       "decision": "PLAY",
       "reason": "Strong projected fantasy points per $1,000."
     }
