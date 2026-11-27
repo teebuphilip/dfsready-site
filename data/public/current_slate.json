@@ -1,10 +1,10 @@
 {
   "contract": "dfsrase-public-slate-v1",
-  "generated_at": "2026-11-27T09:05:06.055302+00:00",
+  "generated_at": "2026-11-27T21:00:27.033453+00:00",
   "run_date": "2026-11-27",
-  "window": "early",
+  "window": "afternoon",
   "version": 1,
-  "as_of_timestamp": "2026-11-27T09:05:06.047947+00:00",
+  "as_of_timestamp": "2026-11-27T21:00:27.027698+00:00",
   "previous_night": null,
   "status": "ready",
   "provider": "DraftKings",
