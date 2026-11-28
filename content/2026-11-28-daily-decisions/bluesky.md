@@ -1,0 +1,1 @@
+DFSReady keeps a dated record of its NBA DFS decision process and reviews that record after results are fully settled. See DFSReady's documented decision process and historical reviews at DFSReady.com.
